@@ -24,14 +24,8 @@ List the key features of your drone:
 ---
 
 ## 📸 Demo / Image
+![image](https://github.com/user-attachments/assets/830a8a8a-ca59-4bb3-b8a8-e149a43de731)
 
-Include a striking image or GIF of your drone here. You can use a 3D model render, a photo of a physical prototype, or a diagram.
-
-![Stealth Drone Placeholder](https://placehold.co/600x400/2d3748/e2e8f0?text=Stealth+Drone+Concept)
-
-*(Replace the placeholder above with an actual image of your project.)*
-
----
 
 ## 🛠️ Tech Stack / Hardware Components
 
